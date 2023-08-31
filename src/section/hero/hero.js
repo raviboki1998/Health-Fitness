@@ -41,7 +41,7 @@
 // ----------------
 
 
-import React from 'react';
+import React,{ useState,useEffect } from 'react';
 import { useWidth } from '@/hooks';
 import { Calculator } from '@/components/calculator/calculator';
 

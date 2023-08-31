@@ -13,7 +13,7 @@ export default function Article({data,articles}) {
           key={index}
           className='flex flex-col border-b-2 border-blue-900 hover:border-blue-300 md:flex-row '
         >
-          <div className='flex-none gap-4 ml-0 mt-10  md:ml-10 md:mt-28 md:mb-24'>
+          <div className='flex-none gap-4 ml-0 mt-10 p-4 rounded-3xl md:ml-10 md:mt-28 md:mb-24'>
             <Image src={remedy.image} alt={remedy.title} width={500} height={400} className='rounded-3xl shadow-md shadow-orange-100' />
           </div>
           {/* <div className='flex-grow gap-4 p-12 text-white'>

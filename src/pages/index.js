@@ -49,7 +49,7 @@ const currentTheme=theme ==='system' ? systemTheme :theme;
 
   return (
     <BaseLayout>
-      <div className="dashboard snap-y mt-16">
+      <div className="dashboard snap-y mt-24">
             <div  className='fitness'>
                   <DashboardCard
                         title="Fitness"

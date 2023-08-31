@@ -3,7 +3,7 @@ import BaseLayout from "@/components/BaseLayout";
 const About = () => {
   return <BaseLayout>
   
-  <div className="mt-16">
+  <div className="mt-24">
   About Page
   </div>
   

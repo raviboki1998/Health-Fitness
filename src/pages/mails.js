@@ -4,7 +4,7 @@ const Mails = () => {
   return <BaseLayout>
  
 
-  <div className="mt-16">
+  <div className="mt-24">
   Mails Page
   </div>
   

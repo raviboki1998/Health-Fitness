@@ -1,3 +1,5 @@
+import React,{ useState,useEffect } from 'react';
+
 export const useWidth = () => {
   const [imgMeasurement, setImgMeasurement] = useState(40);
 

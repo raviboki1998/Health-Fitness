@@ -1,28 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
 
-
-
-
-// Home.js
-// import React from 'react';
-// import BaseLayout from '../components/BaseLayout';
-// import DashboardCard from '../components/DashboardCard'; 
-
-
-// const Home = () => {
-//   return (
-//     <BaseLayout>
-//       <div className="dashboard">
-//         <DashboardCard title="Card 1" content="Content for Card 1" />
-//         <DashboardCard title="Card 2" content="Content for Card 2" />
-//       </div>
-//     </BaseLayout>
-//   );
-// };
-
-// export default Home;
-
-// ---------------------------
 "use client";
 
 
@@ -125,6 +102,27 @@ const currentTheme=theme ==='system' ? systemTheme :theme;
                         title="Heart"
                         content="Content for Card 11"
                         onClick={() => handleCardClick('/heart')} // Redirect to the body page
+                      />
+              </div>
+              <div className='eye'>
+                    <DashboardCard
+                        title="Eye"
+                        content="Content for Card 12"
+                        onClick={() => handleCardClick('/eye')} // Redirect to the body page
+                      />
+              </div>
+              <div className='teeth'>
+                    <DashboardCard
+                        title="Teeth"
+                        content="Content for Card 13"
+                        onClick={() => handleCardClick('/teeth')} // Redirect to the body page
+                      />
+              </div>
+              <div className='skin'>
+                    <DashboardCard
+                        title="Skin"
+                        content="Content for Card 14"
+                        onClick={() => handleCardClick('/skin')} // Redirect to the body page
                       />
               </div>
       

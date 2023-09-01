@@ -307,6 +307,42 @@ body {
 
 
 }
+ .teeth{
+    background-image: url('/teethM.jpg');
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: center; /* Center the image */
+    margin-top: 1px;
+    background-position: 0%;
+    border-radius: 18px;
+    color: rgb(8, 0, 15);
+
+
+}
+ .skin{
+    background-image: url('/skinM.jpg');
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: center; /* Center the image */
+    margin-top: 1px;
+    background-position: 0%;
+    border-radius: 18px;
+    color: rgb(8, 0, 15);
+
+
+}
+ .eye{
+    background-image: url('/eyeM.jpg');
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: center; /* Center the image */
+    margin-top: 1px;
+    background-position: 0%;
+    border-radius: 18px;
+    color: rgb(8, 0, 15);
+
+
+}
 /* styles.css or a dedicated layout CSS file */
 .layout {
   display: flex;

@@ -20,7 +20,7 @@
       },
       {
         "title": "Ritha (Soap Nuts)",
-        "image": "/Ritha.jpeg",
+        "image": "/Ritha1.jpg",
         "content": "Ritha or soap nuts have been used by women for centuries as a natural shampoo. When used regularly, ritha promotes hair growth, improves texture and volume (5). Because of how mild it is, the natural ingredient can be used to cleanse your hair every day without stripping the natural oils from your scalp"
       },
       {
@@ -60,7 +60,7 @@
       },
       {
         "title": "Amla + Bringraj +Brahmi",
-        "image": "/ABB.jpeg",
+        "image": "/ABB1.jpg",
         "content": "A combination of these three herbs is very useful for pacifying pitta and improving metabolism, which helps in absorption of micronutrients.Take 1 g powder of each herb and swallow with lukewarm water. You can even get these herbs in the capsule form. Take one capsule of each after breakfast and dinner. Consult an Ayurveda physician before doing this. It is important to remember that topical treatment by itself cannot curb a hair fall problem, these remedies must be used in combination with a healthy lifestyle to achieve the best results. Following are a few tips that you need to follow for unhindered hair growth. "
       }
       
@@ -159,12 +159,12 @@
       },
       {
         "title": "Licorice (Mulethi) ",
-        "image": "/Li.jpeg",
+        "image": "/Li2.jpg",
         "content": "Licorice has anti-inflammatory properties and can help soothe the stomach lining. It might be taken as a tea or in powdered form.."
       },
       {
         "title": "Triphala ",
-        "image": "/Triphala.jpeg",
+        "image": "/Triphala1.jpg",
         "content": "This Ayurvedic blend of three fruits (amalaki, bibhitaki, and haritaki) is known for its digestive benefits. It can help regulate bowel movements and ease stomach discomfort."
       },
       {
@@ -199,6 +199,107 @@
                 "image": "/burger.jpg",
                 "content": "    Unhealthy Diet: Consuming high-calorie, low-nutrient foods such as fast food, sugary snacks, and sugary beverages contributes to weight gain. Lack of Physical Activity: Sedentary lifestyles, characterized by limited physical activity, increase the risk of obesity. Genetics: Genetic factors can play a role in determining a person's susceptibility to obesity and their ability to lose weight. Metabolic Factors: Some medical conditions, like hypothyroidism and polycystic ovary syndrome (PCOS), can contribute to weight gain. Environmental Factors: Access to unhealthy foods, larger portion sizes, and a lack of opportunities for physical activity in the environment can lead to obesity. Emotional Factors: Emotional stress and certain mental health conditions can lead to overeating and weight gain. Lack of Sleep: Poor sleep patterns and inadequate sleep have been linked to weight gain. Medications: Some medications, such as certain antidepressants and antipsychotics, can cause weight gain as a side effect. Medical Conditions: Some medical conditions, like Cushing's syndrome, can lead to obesity due to hormonal imbalances. Pregnancy: Excess weight gain during pregnancy can lead to obesity postpartum."
               }
+
+        ]
+    },
+    "teeth":{
+        "title":"5 Oral Hygiene Tips to Protect Your Teeth",
+        "articles":[
+            {
+                "title": "Brush several times a day",
+                "image": "/teeth1.jpg",
+                "content": "First and foremost, good oral hygiene starts with brushing several times each day. By brushing, you not only protect your teeth by removing any food particles or other harmful substances that can cause tooth decay, but the teeth are also strengthened by providing them with the mineral support they need. Be sure to brush the entire mouth, not just the teeth, as bacteria can attack the gums and other supporting tooth structures as well."
+              },
+            {
+                "title": "Floss and use mouthwash",
+                "image": "/teeth2.jpg",
+                "content": "Most people understand that flossing and using mouthwash is important, but very few actually floss and use mouthwash frequently enough. While it may not be entirely necessary to floss and use mouthwash after every meal, doing so just once a day can significantly help to protect your teeth in the areas that cannot be reached through brushing, such as in between teeth and in the very back of the mouth."
+              },
+            {
+                "title": "Use a fluoride treatment",
+                "image": "/teeth3.png",
+                "content": "Fluoride is tooth enamel's best friend as it helps support the minerals found in enamel and fights against bacteria attacking the enamel. The best way to utilize fluoride on a daily basis is to use a fluoride-based toothpaste and mouthwash. In the event enamel erosion has begun, talk to a dentist about a stronger fluoride treatment in order to protect your teeth in the proper manner."
+              },
+            {
+                "title": "Avoid harmful foods and drinks",
+                "image": "/teeth61.jpg",
+                "content": "Many instances of tooth decay can be largely attributed to a poor diet, which consists of foods high in sugar and other harmful carbohydrates. In order to protect your teeth to the fullest extent, try and avoid too much intake of harmful foods and drinks, such as coffee, sweets and tomato-based products. For many, giving up coffee or other foods and drinks that may harm enamel is not feasible, in which case, extra dental care can help protect your teeth after consumption."
+              },
+            {
+                "title": "Visit the dentist regularly",
+                "image": "/teeth7.jpg",
+                "content": "Last but certainly not least, it is very important to visit the dentist on a regular basis to properly protect your teeth. While good oral hygiene can significantly reduce the chance of enamel erosion, there is still a chance plaque can build up on the surface of teeth. By visiting the dentist for a dental cleaning and checkup regularly, you can ensure good oral hygiene and protect your teeth and remove any plaque that has hardened and become too tough to remove through brushing."
+              }
+             
+
+        ]
+    },
+    "skin":{
+        "title":"5 tips for healthy skin",
+        "articles":[
+          {
+            "title": "Protect yourself from the sun",
+            "image": "/skin1.jpg",
+            "content":" One of the most important ways to take care of your skin is to protect it from the sun. A lifetime of sun exposure can cause wrinkles, age spots and other skin problems — as well as increase the risk of skin cancer. For the most complete sun protection: Use sunscreen. Use a broad-spectrum sunscreen with an SPF of at least 15. Apply sunscreen generously, and reapply every two hours — or more often if you're swimming or perspiring. Seek shade. Avoid the sun between 10 a.m. and 4 p.m., when the sun's rays are strongest. Wear protective clothing. Cover your skin with tightly woven long-sleeved shirts, long pants and wide-brimmed hats. Also consider laundry additives, which give clothing an additional layer of ultraviolet protection for a certain number of washings, or special sun-protective clothing — which is specifically designed to block ultraviolet rays"
+          },
+          {
+            "title": "Don't smoke",
+            "image": "/Smoking.png",
+            "content":" Smoking makes your skin look older and contributes to wrinkles. Smoking narrows the tiny blood vessels in the outermost layers of skin, which decreases blood flow and makes skin paler. This also depletes the skin of oxygen and nutrients that are important to skin health. Smoking also damages collagen and elastin — the fibers that give your skin strength and elasticity. In addition, the repetitive facial expressions you make when smoking — such as pursing your lips when inhaling and squinting your eyes to keep out smoke — can contribute to wrinkles. In addition, smoking increases your risk of squamous cell skin cancer. If you smoke, the best way to protect your skin is to quit. Ask your doctor for tips or treatments to help you stop smoking. "
+          },
+          {
+            "title": "Causes:",
+            "image": "/skin-care.png",
+            "content":" Daily cleansing and shaving can take a toll on your skin. To keep it gentle: Limit bath time. Hot water and long showers or baths remove oils from your skin. Limit your bath or shower time, and use warm — rather than hot — water   Avoid strong soaps. Strong soaps and detergents can strip oil from your skin. Instead, choose mild cleansers. Shave carefully. To protect and lubricate your skin, apply shaving cream, lotion or gel before shaving. For the closest shave, use a clean, sharp razor. Shave in the direction the hair grows, not against it. Pat dry. After washing or bathing, gently pat or blot your skin dry with a towel so that some moisture remains on your skin. Moisturize dry skin. If your skin is dry, use a moisturizer that fits your skin type. For daily use, consider a moisturizer that contains SPF."
+          },
+          {
+            "title": "Eat a healthy diet",
+            "image": "/glowing-skin.jpg",
+            "content":" A healthy diet can help you look and feel your best. Eat plenty of fruits, vegetables, whole grains and lean proteins. The association between diet and acne isn't clear — but some research suggests that a diet rich in fish oil or fish oil supplements and low in unhealthy fats and processed or refined carbohydrates might promote younger looking skin. Drinking plenty of water helps keep your skin hydrated. "
+          },
+          {
+            "title": "Manage stress",
+            "image": "/reduce-stress.png",
+            "content":"Uncontrolled stress can make your skin more sensitive and trigger acne breakouts and other skin problems. To encourage healthy skin — and a healthy state of mind — take steps to manage your stress. Get enough sleep, set reasonable limits, scale back your to-do list and make time to do the things you enjoy. The results might be more dramatic than you expect  "
+          }
+         
+
+        ]
+    },
+    "eye":{
+        "title":"Common Eye Diseases and Vision Problems ",
+        "articles":[
+            {
+                "title": "Cataract:",
+                "image": "/eye-cataract.jpg",
+                "content": "A cataract is a clouding of your eye’s lens. This cloudy lens can develop in one or both eyes. Cataracts are the world’s leading cause of blindness. In the U.S., cataracts is the leading cause of reversible vision loss. Cataracts can occur at any age and even be present at birth, but are more common in people over the age of 50.."
+              },
+              {
+                "title": "Diabetes-related retinopathy:",
+                "image": "/Diabetic-Retinopathy.jpg",
+                "content":"Diabetes-related retinopathy is a common complication of diabetes. It’s one of the leading causes of blindness in adults in the U.S. Diabetes-related retinopathy is a disease in which there’s ongoing damage to blood vessels in the retina due to long-term unmanaged high sugar (glucose) levels in your blood. Your retina is the light-sensitive tissue in your eye that is needed for clear vision. Most people with diabetes-related retinopathy show no vision changes until the disease is severe. In others, symptoms come and go  "
+              },
+              {
+                "title": "Glaucoma",
+                "image": "/Glaucoma.png",
+                "content":"Glaucoma is an eye disease that results from higher-than-normal fluid pressure in the eye. The pressure damages your optic nerve, which affects how visual information is transmitted to your brain. Undetected and untreated glaucoma can lead to vision loss and blindness in one or both eyes. Glaucoma often runs in families. There are two main types of glaucoma. Open-angle glaucoma develops slowly over time and you may not notice vision change until the disease is far along. Closed-angle glaucoma can happen suddenly. It’s painful and causes loss of vision very quickly.  "
+              },
+              {
+                "title": "Retinal detachment?:",
+                "image": "/retinal-detachment.jpg",
+                "content":" Retinal detachment is a separation or detachment of the retina from its underlying tissues that hold it in place within your eye. This is a serious eye condition that can lead to blindness if not treated. You may or may not have symptoms, depending on the severity of the detachment. Symptoms include: Seeing flashes of light. Seeing dark spots or squiggly lines drifting across your vision. Darkening/covering of part of your vision or your side vision. Treatments include laser therapy or different surgical approaches to seal or close the retinal tear and reattach the retina. "
+              },
+              {
+                "title": "What are the most common eye conditions in children",
+                "image": "/F1.medium.jpg",
+                "content":" Eye conditions commonly seen in children include: Amblyopia: Amblyopia (also called “lazy eye”) happens when your child’s brain and one eye aren’t working together properly and the brain favors the other better-seeing eye. They'll have reduced vision in the non-favored eye. This is the most common cause of vision impairment in children, Strabismus: Strabismus is a lack of coordination between your child’s eyes, which causes the eyes to cross or turn out. Your child’s eyes don’t focus together on a single image at the same time. This can cause reduced 3D vision and/or the brain may favor one eye over the other, which can cause loss of vision in the non-favored eye (amblyopia, see above), Conjunctivitis: Conjunctivitis, also known as pink eye, is an inflammation of the clear tissue that lines the inside surface of your eyelid and the outer coating of your eye. This tissue is called conjunctiva. It helps keep your eyelid and eyeball moist. Pink eye can be highly contagious, especially among children. Although it doesn’t damage vision, it causes itchy, red, blurry, tearing and discharge."
+              },
+              {
+                "title": "What can I do to keep my eyes as healthy as possible?",
+                "image": "/7ways.jpg",
+                "content":"See your eye care professional at regularly scheduled intervals, even if you don’t have any noticeable changes in your vision. Some eye diseases don’t have early warning signs. Ask your eye care professional how often you should be seen. Know your risk factors for eye diseases. Some include age, family history of eye diseases, your ethnic background or having other health conditions such as high blood pressure or diabetes. Make healthy lifestyle choices. Keeping your body as healthy as possible will lower your risk for eye diseases or vision problems. Maintain a healthy weight, eat healthy foods, exercise for at least 30 minutes a day on most days of the week and stop smoking are some examples of healthy choices, Protect your eyes. Wear sunglasses even on cloudy days to protect your eyes from UVA and UVB light. Wear proper protective eyewear when playing sports or when working on home or industrial projects. Follow instructions for wearing and cleaning contacts. Avoid prolonged computer and phone eye strain. Rest your eyes and focus on distant objects for a minute every 20 minutes."
+              }
+            
 
         ]
     },

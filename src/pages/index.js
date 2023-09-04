@@ -125,6 +125,13 @@ const currentTheme=theme ==='system' ? systemTheme :theme;
                         onClick={() => handleCardClick('/skin')} // Redirect to the body page
                       />
               </div>
+              <div className='hiv'>
+                    <DashboardCard
+                        title="HIV"
+                        content="Content for Card 15"
+                        onClick={() => handleCardClick('/HIV')} // Redirect to the body page
+                      />
+              </div>
       
         {/* Add more DashboardCard components as needed */}
       </div>

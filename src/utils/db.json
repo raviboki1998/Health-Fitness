@@ -202,6 +202,34 @@
 
         ]
     },
+    "hiv":{
+        "title":"HIV - Symptoms and causes",
+        "articles":[
+            {
+                "title": "Primary infection (Acute HIV)",
+                "image": "/h1.png",
+                "content": "Some people infected by HIV develop a flu-like illness within 2 to 4 weeks after the virus enters the body. This illness, known as primary (acute) HIV infection, may last for a few weeks. Possible signs and symptoms include: Fever, Headache, Muscle aches and joint pain, Rash, Sore throat and painful mouth sores, Swollen lymph glands, mainly on the neck, Diarrhea, Weight loss, Cough, Night sweats, These symptoms can be so mild that you might not even notice them. However, the amount of virus in your bloodstream (viral load) is quite high at this time. As a result, the infection spreads more easily during primary infection than during the next stage."
+              },
+            {
+                "title": "Clinical latent infection (Chronic HIV)",
+                "image": "/h2.jpg",
+                "content": "In this stage of infection, HIV is still present in the body and in white blood cells. However, many people may not have any symptoms or infections during this time. This stage can last for many years if you're receiving antiretroviral therapy (ART). Some people develop more severe disease much sooner."
+              },
+            {
+                "title": "Symptomatic HIV infection",
+                "image": "/h3.jpg",
+                "content": "As the virus continues to multiply and destroy your immune cells — the cells in your body that help fight off germs — you may develop mild infections or chronic signs and symptoms such as: Fever, Fatigue, Swollen lymph nodes — often one of the first signs of HIV infection, Diarrhea, Weight loss, Oral yeast infection (thrush), Shingles (herpes zoster), Pneumonia"
+              },
+            {
+                "title": "Progression to AIDS",
+                "image": "/h5.jpg",
+                "content": "Access to better antiviral treatments has dramatically decreased deaths from AIDS worldwide, even in resource-poor countries. Thanks to these life-saving treatments, most people with HIV in the U.S. today don't develop AIDS. Untreated, HIV typically turns into AIDS in about 8 to 10 When AIDS occurs, your immune system has been severely damaged. You'll be more likely to develop diseases that wouldn't usually cause illness in a person with a healthy immune system. These are called opportunistic infections or opportunistic cancers The signs and symptoms of some of these infections may include: Sweats, Chills,  Recurring fever, Chronic diarrhea, Swollen lymph glands, Persistent white spots or unusual lesions on your tongue or in your mouth, Persistent, unexplained fatigue, Weakness, Weight loss, Skin rashes or bumps "
+              }
+           
+
+        ]
+    },
+
     "teeth":{
         "title":"5 Oral Hygiene Tips to Protect Your Teeth",
         "articles":[

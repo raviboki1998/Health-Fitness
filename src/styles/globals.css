@@ -340,8 +340,16 @@ body {
     background-position: 0%;
     border-radius: 18px;
     color: rgb(8, 0, 15);
-
-
+}
+ .hiv{
+    background-image: url('/hiv1.png');
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: center; /* Center the image */
+    margin-top: 1px;
+    background-position: 0%;
+    border-radius: 18px;
+    color: rgb(8, 0, 15);
 }
 /* styles.css or a dedicated layout CSS file */
 .layout {
